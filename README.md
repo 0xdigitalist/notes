@@ -1,4 +1,6 @@
 # notes
+1. Links
+2. Not yet
 
 ## links
 
