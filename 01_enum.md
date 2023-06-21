@@ -1,9 +1,9 @@
 # Enum Basics
 
 ## nmap -sC -sV -oA nmap/target ip
-  1. A           Enable OS detection, version detection, script scanning, and traceroute
-  2. i           nmap -iL targets.txt	Scan targets from a file
-  3. top-ports   nmap 192.168.1.1 -p-65535	Leaving off initial port in range makes the scan start at port 1
+  1. A           # Enable OS detection, version detection, script scanning, and traceroute
+  2. i           # nmap -iL targets.txt	Scan targets from a file
+  3. top-ports   # nmap 192.168.1.1 -p-65535	Leaving off initial port in range makes the scan start at port 1
   
   ### Examples
   
