@@ -1,1 +1,6 @@
+Enum Basics
+===========
+
+nmap -sC -sV -oA nmap/target ip
+  -A: Enable OS detection, version detection, script scanning, and traceroute
 
