@@ -2,5 +2,6 @@ Enum Basics
 ===========
 
 nmap -sC -sV -oA nmap/target ip
-  -A: Enable OS detection, version detection, script scanning, and traceroute
+  -A     Enable OS detection, version detection, script scanning, and traceroute
+  -i     nmap -iL targets.txt	Scan targets from a file
 
